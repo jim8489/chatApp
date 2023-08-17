@@ -1,0 +1,14 @@
+asgiref==3.7.2
+certifi==2023.7.22
+charset-normalizer==3.2.0
+Django==4.2.2
+gunicorn==21.2.0
+heroku==0.1.4
+idna==3.4
+Markdown==3.4.3
+markdown2==2.4.9
+packaging==23.1
+python-dateutil==1.5
+requests==2.31.0
+sqlparse==0.4.4
+urllib3==2.0.4
